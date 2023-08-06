@@ -1,7 +1,7 @@
 {
-    "bot_token": "",
-    "client_id": "",
-    "client_secret": "",
+    "bot_token": "075dcbd24995ca2f5cad7de4f0a71102ca4fb4d4394792b38ab779654e1a5d75",
+    "client_id": "1137818221760741467",
+    "client_secret": "rcX0j4oEEo8qgVgEJMQKHV4OJfFglAtB",
     "app_uri": "http://DOMINIO_OU_IP/#/",
     "redirect_uri": "http://DOMINIO_OU_IP:3000/api/discord/callback",
     "guildId": "",
