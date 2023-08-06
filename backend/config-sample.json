@@ -2,23 +2,23 @@
     "bot_token": "075dcbd24995ca2f5cad7de4f0a71102ca4fb4d4394792b38ab779654e1a5d75",
     "client_id": "1137818221760741467",
     "client_secret": "rcX0j4oEEo8qgVgEJMQKHV4OJfFglAtB",
-    "app_uri": "http://DOMINIO_OU_IP/#/",
-    "redirect_uri": "http://DOMINIO_OU_IP:3000/api/discord/callback",
-    "guildId": "",
-    "allowedRole": "",
+    "app_uri": "http://90.103.32.122/#/",
+    "redirect_uri": "http://90.103.32.122:3000/api/discord/callback",
+    "guildId": "1084513172439978024",
+    "allowedRole": "1137820291716878340",
     "playerRole": "",
     "guestRole": "",
-    "emojiApproved": "",
-    "emojiDenied": "",
-    "whitelistResultChannel": "",
+    "emojiApproved": "https://discord.com/assets/bb7aa875fe442f8c2c79e5b8b1e8c7c9.svg",
+    "emojiDenied": "https://discord.com/channels/1084513172439978024/1084513172439978027/1137822386654285947",
+    "whitelistResultChannel": "https://discord.com/channels/1084513172439978024/1084513172439978027",
     "webhook": {
-        "id": "",
-        "token": ""
+        "id": "1061334843058815026",
+        "token": "zKVs-xTWlX3UeQhG55b43EzKOctpiqxMxadSldtE3ZD9HIC8V2gS9CeP6OhXqWwHWvJE"
     },
     "database": {
         "host": "localhost",
         "user": "root",
         "password": "",
-        "db": "whitelist"
+        "db": "discordWL"
     }
 }
